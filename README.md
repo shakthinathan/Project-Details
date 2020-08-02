@@ -15,4 +15,4 @@ visualize and interact with data, and generate dashboards in less than 100 lines
 
 Web development Interest
   
-I got Interest into web development when I came to know some of the tools made me very interesting to learn.I started with html,css,javascript,sql and I came to know some of the backend like php etc.Its a very vast field to learn so I got interested to it.
+I got Interest into web development when I came to know some of the tools made me very interesting to learn.I started with html,css,javascript,sql and I came to know some of the backend like php etc.Its a very vast field to learn so I got interested to it.I used Visual stdio code as my IDE.
